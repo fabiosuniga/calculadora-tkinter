@@ -13,3 +13,5 @@ Don't want to mess with code or install Python? You can download and run the cal
 1. Click on the `calculadora.exe` file in the repository file list above.
 2. Click the **Download raw file** button (the icon with an arrow pointing down, usually on the top right of the file box).
 3. Double-click the downloaded file on your Windows machine to run it!
+
+<img width="270" height="262" alt="image" src="https://github.com/user-attachments/assets/97012397-8f5a-472c-b278-cf39e2328e38" />
